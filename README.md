@@ -1,1 +1,0 @@
-# Grocery-Management-System
