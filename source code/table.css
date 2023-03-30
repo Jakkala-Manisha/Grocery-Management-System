@@ -1,0 +1,13 @@
+
+          table tr th{
+              width:150px;
+              background: MediumSeaGreen;
+              color:whitesmoke;
+              border:1px solid white;
+          }
+          table tr td{
+              background: whitesmoke;
+              border:1px solid white;
+              text-align: center;
+          }
+       
